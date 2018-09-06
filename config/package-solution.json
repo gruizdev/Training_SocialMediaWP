@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "socialmediawp-client-side-solution",
+    "id": "c124b4e8-43d6-4c64-aef3-64f54bebab86",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/socialmediawp.sppkg"
+  }
+}

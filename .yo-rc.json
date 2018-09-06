@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "socialmediawp",
+    "libraryId": "c124b4e8-43d6-4c64-aef3-64f54bebab86",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
